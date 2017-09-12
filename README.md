@@ -14,3 +14,7 @@ const b = 2;
 ``` 
 
 after
+
+[link to Google!](http://google.com)
+
+[link to other markdown](docs/test.md)
