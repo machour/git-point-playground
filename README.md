@@ -1,1 +1,0 @@
-# git-point-playground
