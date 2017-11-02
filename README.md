@@ -1,3 +1,8 @@
+| | |
+| :---: | :---: |
+| test | test |
+| test | test |
+
 ## client.Namespaces
 
 <dl>
