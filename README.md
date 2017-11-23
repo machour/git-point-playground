@@ -1,3 +1,5 @@
+::: spoiler click me\n*content*\n:::
+
 # H1
 ## H2
 ### H3
