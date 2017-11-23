@@ -1,4 +1,4 @@
-::: spoiler click me\n*content*\n:::
+:::spoiler click me\n*content*\n:::
 
 # H1
 ## H2
